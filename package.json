@@ -8,5 +8,22 @@
       "babel-runtime": "npm:babel-runtime@^5.8.24",
       "core-js": "npm:core-js@^1.1.4"
     }
-  }
+  },
+  "name": "machine-learning",
+  "description": "",
+  "version": "1.0.0",
+  "main": "build.js",
+  "scripts": {
+    "start": "jspm-server --quiet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liam-b/machine-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liam-b/machine-learning/issues"
+  },
+  "homepage": "https://github.com/liam-b/machine-learning#readme"
 }
